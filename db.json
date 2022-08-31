@@ -1,0 +1,1096 @@
+{
+  "offered": [
+    {
+      "id": 1,
+      "title": "دیوار",
+      "category": "خرید",
+      "path": "/assets/offered images/divar.png",
+      "version": "نسخه ۱۱.۵.۱۰",
+      "downloads": "+۲۶ میلیون",
+      "size": "۱۳ مگابایت",
+      "rating": "۴.۷",
+      "commentsCount": "از ۱،۲۶۹،۹۴۱ رأی",
+      "data": [
+        "/assets/single apps/divar/1.webp",
+        "/assets/single apps/divar/2.webp",
+        "/assets/single apps/divar/3.webp",
+        "/assets/single apps/divar/4.webp",
+        "/assets/single apps/divar/5.webp",
+        "/assets/single apps/divar/6.webp",
+        "/assets/single apps/divar/7.webp"
+      ],
+      "slugCat": "offered",
+      "comments": [
+        {
+          "id": 1,
+          "username": "محمد علی",
+          "comment": "خیلی نرم افزار خوبیه !",
+          "date": "۱۴۰۰/۱۱/۱۱",
+          "rateCount": 5
+        },
+        {
+          "id": 2,
+          "username": "س.م.رضایی",
+          "comment": "ممنون از ویژگی های خوبی که داخل برنامه گذاشتید.",
+          "date": "۱۴۰۰/۱۱/۱۱",
+          "rateCount": 4
+        },
+        {
+          "id": 3,
+          "username": "کیلان محمودی راد",
+          "comment": "عالی و نتیجه بخش ممنون اززحمات پرسنل",
+          "date": "۱۴۰۰/۱۱/۱۱",
+          "rateCount": 5
+        },
+        {
+          "id": 4,
+          "username": "کاوه معتمدی",
+          "comment": "یه ستاره هم زیاده من چند روز پیش کنسول گذاشتم یدونه مرده گفتش میام ازت میخرم یدونه عکس فتو شاپ الکی فرستاد گفت پولو زدم برای من اسمس نیومد اون اسنپی رو هم که فرستاد فرار کرد رفت دیگه تلفنش هم جواب نداد",
+          "date": "۱۴۰۰/۱۱/۱۱",
+          "rateCount": 1
+        },
+        {
+          "id": 5,
+          "username": "شوتی",
+          "comment": "عالی عالی عالی عالی عالی عالی عالی عالی ‌عالی",
+          "date": "۱۴۰۰/۱۱/۱۱",
+          "rateCount": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "تقویم اذان گوی صبا",
+      "category": "مذهبی",
+      "path": "/assets/offered images/saba.png",
+      "slugCat": "offered",
+      "version": "نسخهٔ ۱۲.۵",
+      "downloads": "+۱۳ میلیون",
+      "size": "۱۶ مگابایت",
+      "rating": "۴.۷",
+      "commentsCount": "از ۳،۲۱۲،۶۶۹ رأی",
+      "data": [
+        "/assets/single apps/saba/1.webp",
+        "/assets/single apps/saba/2.webp",
+        "/assets/single apps/saba/3.webp",
+        "/assets/single apps/saba/4.webp",
+        "/assets/single apps/saba/5.webp",
+        "/assets/single apps/saba/6.webp",
+        "/assets/single apps/saba/7.webp"
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "username": "عابدیان",
+          "comment": "سلام برنامه خیلی عالیه تشکر از برنامه نویسان و دست اندر کاران برنامه",
+          "date": "۱۴۰۰/۱۱/۱۱",
+          "rateCount": 4
+        },
+        {
+          "id": 2,
+          "username": "هادی صفرپور",
+          "comment": "سلام. اپلیکیشن باد صبا خیلی خوب وبسیار کاربردیست. موفق وموید باشید. خدا خیرتان دهد ان شاالله",
+          "date": "۱۳۹۹/۱۲/۲۸",
+          "rateCount": 5
+        },
+        {
+          "id": 3,
+          "username": "حسین حمدانی فر",
+          "comment": "بادصبا واقعا از همههههه لحاظ(تقویم، هشدار، ساعات شرعی و....) بی نقص و کاربردیه خداقوت واقعا",
+          "date": "۱۳۹۹/۱۲/۲۸",
+          "rateCount": 4
+        },
+        {
+          "id": 4,
+          "username": "ریحانه",
+          "comment": "عالیه هرچی گفتم کم گفتم . نصب نکنی ضرر کردی",
+          "date": "۱۴۰۰/۰۸/۰۴",
+          "rateCount": 4
+        },
+        {
+          "id": 5,
+          "username": "جلالی",
+          "comment": "خیلی خوبه",
+          "date": "۱۴۰۰/۰۸/۰۵",
+          "rateCount": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "آپ - اپلیکیشن پرداخت همراه",
+      "category": "امور مالی",
+      "path": "/assets/offered images/sibcheapp.png",
+      "slugCat": "offered"
+    },
+    {
+      "id": 4,
+      "title": "اپلیکیشن شاد",
+      "category": "آموزش",
+      "path": "/assets/offered images/shad.png",
+      "slugCat": "offered"
+    },
+    {
+      "id": 5,
+      "title": "همراه من (اپلیکیشن رسمی همراه اول)",
+      "category": "ابزارها",
+      "path": "/assets/offered images/hamrah.webp",
+      "slugCat": "offered"
+    },
+    {
+      "id": 6,
+      "title": "اسنپ |Snapp سامانه هوشمند حمل و نقل",
+      "category": "رفت و آمد",
+      "path": "/assets/offered images/snapp.png",
+      "slugCat": "offered"
+    },
+    {
+      "id": 7,
+      "title": "تلوبیون: پخش زنده و آرشیو تلویزیون",
+      "category": "سرگرمی",
+      "path": "/assets/offered images/telewebion.png",
+      "slugCat": "offered"
+    },
+    {
+      "id": 8,
+      "title": "زاپیا Zapya",
+      "category": "ابزارها",
+      "path": "/assets/offered images/zapya.png",
+      "slugCat": "offered"
+    },
+    {
+      "id": 9,
+      "title": "ایمو Imo",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/offered images/imo.webp",
+      "slugCat": "offered"
+    },
+    {
+      "id": 10,
+      "title": "آپارات",
+      "category": "سرگرمی",
+      "path": "/assets/offered images/aparat.png",
+      "slugCat": "offered"
+    },
+    {
+      "id": 11,
+      "title": "جعبه ابزار",
+      "category": "ابزارها",
+      "path": "/assets/offered images/toolbox.png",
+      "slugCat": "offered"
+    },
+    {
+      "id": 12,
+      "title": "دیجی کالا |فروشگاه خرید آنلاین",
+      "category": "خرید",
+      "path": "/assets/offered images/digikala.png",
+      "slugCat": "offered"
+    },
+    {
+      "id": 13,
+      "title": "بلد - نقشه و مسیریاب",
+      "category": "رفت و آمد",
+      "path": "/assets/offered images/balad.png",
+      "slugCat": "offered"
+    },
+    {
+      "id": 14,
+      "title": "پیام رسان ایتا",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/offered images/eitaa.png",
+      "slugCat": "offered"
+    },
+    {
+      "id": 15,
+      "title": "بیوتی پلاس",
+      "category": "عکاسی و ویدیو",
+      "path": "/assets/offered images/beautyplus.png",
+      "slugCat": "offered"
+    }
+  ],
+  "practical": [
+    {
+      "id": 1,
+      "title": "شریت SHAREit",
+      "category": "ابزارها",
+      "path": "/assets/practical images/shareit.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 2,
+      "title": "آپارات",
+      "category": "سرگرمی",
+      "path": "/assets/practical images/aparat.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 3,
+      "title": "Instagram",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/practical images/instagram.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 4,
+      "title": "تلوبیون: پخش زنده و آرشیو تلویزیون",
+      "category": "سرگرمی",
+      "path": "/assets/practical images/telewebion.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 5,
+      "title": "اسنپ |Snapp سامانه هوشمند حمل و نقل",
+      "category": "رفت و آمد",
+      "path": "/assets/practical images/snapp.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 6,
+      "title": "بلد - نقشه و مسیریاب",
+      "category": "رفت و آمد",
+      "path": "/assets/practical images/balad.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 7,
+      "title": "روبیکا",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/practical images/rubika.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 8,
+      "title": "آپ - اپلیکیشن پرداخت همراه",
+      "category": "امور مالی",
+      "path": "/assets/practical images/sibche.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 9,
+      "title": "دیوار",
+      "category": "خرید",
+      "path": "/assets/practical images/divar.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 10,
+      "title": "واتساپ WhatsApp Messenger",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/practical images/whatsapp.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 11,
+      "title": "اوانو | کارت به کارت , شارژ , قبض",
+      "category": "امور مالی",
+      "path": "/assets/practical images/ewano.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 12,
+      "title": "دیجیکالا | فروشگاه خرید آنلاین",
+      "category": "خرید",
+      "path": "/assets/practical images/digikala.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 13,
+      "title": "ایرانسل من",
+      "category": "ابزارها",
+      "path": "/assets/practical images/myirancell.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 14,
+      "title": "همراه بانک ملت",
+      "category": "امور مالی",
+      "path": "/assets/practical images/mellatbank.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 15,
+      "title": "تقویم اذان گو بادصبا",
+      "category": "مذهبی",
+      "path": "/assets/practical images/saba.png",
+      "slugCat": "practical"
+    },
+    {
+      "id": 16,
+      "title": "همراه من (اپلیکیشن رسمی همراه اول)",
+      "category": "ابزارها",
+      "path": "/assets/practical images/hamrah.webp",
+      "slugCat": "practical"
+    }
+  ],
+  "selected": [
+    {
+      "id": 1,
+      "title": "لیت مچ - Litmatch",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/selected images/litmatch.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 2,
+      "title": "اسنپ اکسپرس / سوپرمارکت آنلاین",
+      "category": "خرید",
+      "path": "/assets/selected images/expresssnapp.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 3,
+      "title": "Wallcraft - Wallpapers 4K, HD",
+      "category": "شخصی سازی",
+      "path": "/assets/selected images/wallpapers.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 4,
+      "title": "Solid Explorer File Manager",
+      "category": "ابزارها",
+      "path": "/assets/selected images/solidexplorer.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 5,
+      "title": "Video Watermark - Create & Add Watermark On Videos",
+      "category": "ابزارها",
+      "path": "/assets/selected images/videowatermark.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 6,
+      "title": "قهرمان کوچولو کلمات جادویی",
+      "category": "کودک",
+      "path": "/assets/selected images/ghahremankuchulu.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 7,
+      "title": "Duo Mobile",
+      "category": "ابزارها",
+      "path": "/assets/selected images/duosecurity.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 8,
+      "title": "Weather",
+      "category": "آب و هوا",
+      "path": "/assets/selected images/weather.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 9,
+      "title": "پرفکت پیانو - Perfect Piano",
+      "category": "موسیقی",
+      "path": "/assets/selected images/perfectpiano.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 10,
+      "title": "راویتون | کمیک ایرانی",
+      "category": "سرگرمی",
+      "path": "/assets/selected images/ravitoon.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 11,
+      "title": "نی نی پا: بارداری و رشد کودک",
+      "category": "پزشکی",
+      "path": "/assets/selected images/nini.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 12,
+      "title": "تون آرت - ToonArt",
+      "category": "عکاسی و ویدیو",
+      "path": "/assets/selected images/toonArt.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 13,
+      "title": "شهر قرآنی",
+      "category": "کودک",
+      "path": "/assets/selected images/shahrequrani.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 14,
+      "title": "نیازمندی های همشهری",
+      "category": "خرید",
+      "path": "/assets/selected images/rahnama.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 15,
+      "title": "دانلود استوری اینستاگرام",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/selected images/instadownloader.png",
+      "slugCat": "selected"
+    },
+    {
+      "id": 16,
+      "title": "سفرمارکت | بلیط هواپیما,تور و هتل",
+      "category": "سفر",
+      "path": "/assets/selected images/safarmarket.png",
+      "slugCat": "selected"
+    }
+  ],
+  "photovideo": [
+    {
+      "id": 1,
+      "title": "PicsArt - ویرایش عکس پیکس آرت",
+      "category": "عکاسی و ویدیو",
+      "path": "/assets/photo and video images/picsart.webp",
+      "slugCat": "photovideo"
+    },
+    {
+      "id": 2,
+      "title": "Lumii - ویرایش تصویر",
+      "category": "عکاسی و ویدیو",
+      "path": "/assets/photo and video images/lumii.webp",
+      "slugCat": "photovideo"
+    },
+    {
+      "id": 3,
+      "title": "متن نگار",
+      "category": "عکاسی و ویدیو",
+      "path": "/assets/photo and video images/textgraphy.png",
+      "slugCat": "photovideo"
+    },
+    {
+      "id": 4,
+      "title": "عکس نوشته ساز",
+      "category": "عکاسی و ویدیو",
+      "path": "/assets/photo and video images/typegraphy.png",
+      "slugCat": "photovideo"
+    },
+    {
+      "id": 5,
+      "title": "PhotoGrid - ویرایش عکس و ویدیو فوتوگرید",
+      "category": "عکاسی و ویدیو",
+      "path": "/assets/photo and video images/photogrid.png",
+      "slugCat": "photovideo"
+    },
+    {
+      "id": 5,
+      "title": "فونتو",
+      "category": "عکاسی و ویدیو",
+      "path": "/assets/photo and video images/phonto.png",
+      "slugCat": "photovideo"
+    },
+    {
+      "id": 6,
+      "title": "کراپ باز - ویرایش عکس",
+      "category": "عکاسی و ویدیو",
+      "path": "/assets/photo and video images/cropbuzz.png",
+      "slugCat": "photovideo"
+    },
+    {
+      "id": 7,
+      "title": "آلگرام (پست ساز شبکه های اجتماعی)",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/photo and video images/allgram.png",
+      "slugCat": "photovideo"
+    }
+  ],
+  "updated": [
+    {
+      "id": 1,
+      "title": "بازده | رصد بورس, طلا و ارزدیجیتال",
+      "category": "امور مالی",
+      "path": "/assets/updated images/baazde.png",
+      "slugCat": "updated"
+    },
+    {
+      "id": 2,
+      "title": "حسابداری یاس_فروشگاه+فاکتور+انبار",
+      "category": "امور مالی",
+      "path": "/assets/updated images/yas.webp",
+      "slugCat": "updated"
+    },
+    {
+      "id": 3,
+      "title": "گوشیتو سریع کن( ضدهنگ + افزایش سرعت )",
+      "category": "ابزارها",
+      "path": "/assets/updated images/booster.png",
+      "slugCat": "updated"
+    },
+    {
+      "id": 4,
+      "title": "ثبت و استعلام چک صیاد(ساد24)",
+      "category": "امور مالی",
+      "path": "/assets/updated images/check.png",
+      "slugCat": "updated"
+    },
+    {
+      "id": 5,
+      "title": "متن یار: تبدیل تصویر و عکس به متن",
+      "category": "ابزارها",
+      "path": "/assets/updated images/matnyar.png",
+      "slugCat": "updated"
+    },
+    {
+      "id": 6,
+      "title": "کلاب هاوس - Clubhouse",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/updated images/clubhouse.png",
+      "slugCat": "updated"
+    },
+    {
+      "id": 7,
+      "title": "Google Meet",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/updated images/googlemeeting.png",
+      "slugCat": "updated"
+    },
+    {
+      "id": 8,
+      "title": "بله (گفتگو + پرداخت)",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/updated images/bale.png",
+      "slugCat": "updated"
+    },
+    {
+      "id": 9,
+      "title": "همراه من (اپلیکیشن رسمی همراه اول)",
+      "category": "ابزارها",
+      "path": "/assets/updated images/hamrah.webp",
+      "slugCat": "updated"
+    },
+    {
+      "id": 10,
+      "title": "آی کاپ",
+      "category": "امور مالی",
+      "path": "/assets/updated images/icup.png",
+      "slugCat": "updated"
+    },
+    {
+      "id": 11,
+      "title": "پاتوق - شبکه اجتماعی بازی و سرگرمی",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/updated images/patogh.png",
+      "slugCat": "updated"
+    },
+    {
+      "id": 12,
+      "title": "کالری شمار و رژیم غذایی زیره",
+      "category": "تناسب اندام",
+      "path": "/assets/updated images/zire.png",
+      "slugCat": "updated"
+    },
+    {
+      "id": 13,
+      "title": "یک زن: ارتباط با متخصصین زن",
+      "category": "پزشکی",
+      "path": "/assets/updated images/yekzan.png",
+      "slugCat": "updated"
+    },
+    {
+      "id": 14,
+      "title": "نماوا - تماشای آنلاین فیلم و سریال",
+      "category": "سرگرمی",
+      "path": "/assets/updated images/namava.png",
+      "slugCat": "updated"
+    },
+    {
+      "id": 15,
+      "title": "نزدیکا - دایره دوستان جدید تو",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/updated images/nazdika.png",
+      "slugCat": "updated"
+    },
+    {
+      "id": 16,
+      "title": "فوت موب - نتایج زنده فوتبال",
+      "category": "ورزشی",
+      "path": "/assets/updated images/fotmob.webp",
+      "slugCat": "updated"
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "path": "/assets/banner images/1.png",
+      "slugCat": "banners"
+    },
+    {
+      "id": 2,
+      "path": "/assets/banner images/2.png",
+      "slugCat": "banners"
+    },
+    {
+      "id": 3,
+      "path": "/assets/banner images/3.png",
+      "slugCat": "banners"
+    },
+    {
+      "id": 4,
+      "path": "/assets/banner images/4.png",
+      "slugCat": "banners"
+    },
+    {
+      "id": 5,
+      "path": "/assets/banner images/5.png",
+      "slugCat": "banners"
+    },
+    {
+      "id": 6,
+      "path": "/assets/banner images/6.png",
+      "slugCat": "banners"
+    },
+    {
+      "id": 7,
+      "path": "/assets/banner images/7.png",
+      "slugCat": "banners"
+    },
+    {
+      "id": 8,
+      "path": "/assets/banner images/8.png",
+      "slugCat": "banners"
+    },
+    {
+      "id": 9,
+      "path": "/assets/banner images/9.png",
+      "slugCat": "banners"
+    },
+    {
+      "id": 10,
+      "path": "/assets/banner images/10.png",
+      "slugCat": "banners"
+    }
+  ],
+  "fashion": [
+    {
+      "id": 1,
+      "title": "دیجی کالا |فروشگاه خرید آنلاین",
+      "category": "خرید",
+      "path": "/assets/fashion images/digikala.png",
+      "slugCat": "fashion"
+    },
+    {
+      "id": 2,
+      "title": "کمدا | شبکه اجتماعی خرید و فروش",
+      "category": "خرید",
+      "path": "/assets/fashion images/komodaa.png",
+      "slugCat": "fashion"
+    },
+    {
+      "id": 3,
+      "title": "بانی مد - مرکز خرید آنلاین",
+      "category": "خرید",
+      "path": "/assets/fashion images/banimode.png",
+      "slugCat": "fashion"
+    },
+    {
+      "id": 4,
+      "title": "پاساژ | مرکز خرید پوشاک و آرایشی",
+      "category": "خرید",
+      "path": "/assets/fashion images/pasaj.webp",
+      "slugCat": "fashion"
+    },
+    {
+      "id": 5,
+      "title": "دارلین | مد و فشن بانوان",
+      "category": "خرید",
+      "path": "/assets/fashion images/darlyn.png",
+      "slugCat": "fashion"
+    },
+    {
+      "id": 6,
+      "title": "بوتیک , جستجوگر لباس",
+      "category": "سبک زندگی",
+      "path": "/assets/fashion images/botick.png",
+      "slugCat": "fashion"
+    },
+    {
+      "id": 7,
+      "title": "روچی - بازار پارچه و خیاطی",
+      "category": "خرید",
+      "path": "/assets/fashion images/rochi.png",
+      "slugCat": "fashion"
+    },
+    {
+      "id": 8,
+      "title": "مینی کالا | بازار خرید و فروش کالا",
+      "category": "خرید",
+      "path": "/assets/fashion images/minikala.png",
+      "slugCat": "fashion"
+    },
+    {
+      "id": 9,
+      "title": "فروشگاه اینترنتی مدیسه",
+      "category": "خرید",
+      "path": "/assets/fashion images/modiseh.png",
+      "slugCat": "fashion"
+    }
+  ],
+  "smallsize": [
+    {
+      "id": 1,
+      "title": "آشپزی با سرآشپز پاپیون",
+      "category": "آشپزی و رستوران",
+      "path": "/assets/small apps images/papillon.png",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 2,
+      "title": "آیلینگو | آموزش زبان انگلیسی",
+      "category": "آموزش",
+      "path": "/assets/small apps images/ilingo.png",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 3,
+      "title": "همراه من (اپلیکیشن رسمی همراه اول)",
+      "category": "ابزارها",
+      "path": "/assets/small apps images/hamrah.webp",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 4,
+      "title": "ترب | بهترین قیمت بازار",
+      "category": "خرید",
+      "path": "/assets/small apps images/torob.png",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 5,
+      "title": "اینستاگرام لایت - Instagram Lite",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/small apps images/instagramlite.png",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 6,
+      "title": "Automatic Call Recorder",
+      "category": "ابزارها",
+      "path": "/assets/small apps images/callrecorder.webp",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 7,
+      "title": "تمیز کردن و افزایش حافظه گوشی - Memory Cleaner",
+      "category": "ابزارها",
+      "path": "/assets/small apps images/junkremove.png",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 8,
+      "title": "زاپیا Zapya",
+      "category": "ابزارها",
+      "path": "/assets/small apps images/zapya.png",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 9,
+      "title": "ADM",
+      "category": "ابزارها",
+      "path": "/assets/small apps images/adm.png",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 10,
+      "title": "پدومتر - Pedometer",
+      "category": "تناسب اندام",
+      "path": "/assets/small apps images/pedometer.png",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 11,
+      "title": "جفتک ( قفل برنامه - گالری مخفی )",
+      "category": "ابزارها",
+      "path": "/assets/small apps images/joftak.png",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 12,
+      "title": "Antivirus & Virus Cleaner",
+      "category": "ابزارها",
+      "path": "/assets/small apps images/antivirus.png",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 13,
+      "title": "بلد - نقشه و مسیریاب",
+      "category": "رفت و آمد",
+      "path": "/assets/small apps images/balad.png",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 14,
+      "title": "اوانو | کارت به کارت , شارژ , قبض",
+      "category": "امور مالی",
+      "path": "/assets/small apps images/ewano.png",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 15,
+      "title": "جعبه ابزار",
+      "category": "ابزارها",
+      "path": "/assets/small apps images/toolbox.png",
+      "slugCat": "smallsize"
+    },
+    {
+      "id": 16,
+      "title": "شفاداک - نوبت دهی هوشمند",
+      "category": "پزشکی",
+      "path": "/assets/small apps images/shafadoc.png",
+      "slugCat": "smallsize"
+    }
+  ],
+  "best": [
+    {
+      "id": 1,
+      "title": "همراه بانک سپه - انصار سابق",
+      "category": "امور مالی",
+      "path": "/assets/best app images/banksepah.webp",
+      "slugCat": "best"
+    },
+    {
+      "id": 2,
+      "title": "شماره مجازی - نیل",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/best app images/virtualnumber.png",
+      "slugCat": "best"
+    },
+    {
+      "id": 3,
+      "title": "اوانو | کارت به کارت , شارژ , قبض",
+      "category": "امور مالی",
+      "path": "/assets/best app images/ewano.png",
+      "slugCat": "best"
+    },
+    {
+      "id": 4,
+      "title": "رمزبان (رمز یکبار مصرف بانک ملی)",
+      "category": "امور مالی",
+      "path": "/assets/best app images/ramzban.png",
+      "slugCat": "best"
+    },
+    {
+      "id": 5,
+      "title": "اخبار گوگل",
+      "category": "کتاب ها و مطبوعات",
+      "path": "/assets/best app images/googlenews.png",
+      "slugCat": "best"
+    },
+    {
+      "id": 6,
+      "title": "ریکاوری پیشرفته عکس و فیلم",
+      "category": "ابزارها",
+      "path": "/assets/best app images/recovery.png",
+      "slugCat": "best"
+    },
+    {
+      "id": 7,
+      "title": "ایمالز - قیمت لحظه ای بازار",
+      "category": "خرید",
+      "path": "/assets/best app images/emalls.png",
+      "slugCat": "best"
+    },
+    {
+      "id": 8,
+      "title": "دانشنامه اسنپ چت",
+      "category": "آموزش",
+      "path": "/assets/best app images/snapchatdocs.png",
+      "slugCat": "best"
+    },
+    {
+      "id": 9,
+      "title": "گوگل فایلز",
+      "category": "ابزارها",
+      "path": "/assets/best app images/googlefiles.webp",
+      "slugCat": "best"
+    },
+    {
+      "id": 10,
+      "title": "اسنپ |Snapp سامانه هوشمند حمل و نقل",
+      "category": "رفت و آمد",
+      "path": "/assets/best app images/snapp.png",
+      "slugCat": "best"
+    },
+    {
+      "id": 11,
+      "title": "کارت پستال دیجیتال",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/best app images/digipostal.png",
+      "slugCat": "best"
+    },
+    {
+      "id": 12,
+      "title": "ساتا",
+      "category": "ابزارها",
+      "path": "/assets/best app images/sata.png",
+      "slugCat": "best"
+    },
+    {
+      "id": 13,
+      "title": "ایرانسل من",
+      "category": "ابزارها",
+      "path": "/assets/best app images/myirancell.png",
+      "slugCat": "best"
+    },
+    {
+      "id": 14,
+      "title": "پلیس من",
+      "category": "ابزارها",
+      "path": "/assets/best app images/mypolice.png",
+      "slugCat": "best"
+    },
+    {
+      "id": 15,
+      "title": "اسنپ فود | سفارش غذا و سوپرمارکت",
+      "category": "آشپزی و رستوران",
+      "path": "/assets/best app images/snappfood.png",
+      "slugCat": "best"
+    },
+    {
+      "id": 16,
+      "title": "اسنپ رانندگان",
+      "category": "رفت و آمد",
+      "path": "/assets/best app images/snappdriver.png",
+      "slugCat": "best"
+    }
+  ],
+  "mostdownload": [
+    {
+      "id": 1,
+      "title": "دیوار",
+      "category": "خرید",
+      "path": "/assets/most download apps images/divar.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 2,
+      "title": "فیلیمو - تماشای فیلم و سریال",
+      "category": "سرگرمی",
+      "path": "/assets/most download apps images/filimo.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 3,
+      "title": "نماوا - تماشای آنلاین فیلم و سریال",
+      "category": "سرگرمی",
+      "path": "/assets/most download apps images/namava.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 4,
+      "title": "طاقچه | کتاب الکترونیکی و صوتی",
+      "category": "کتاب ها و مطبوعات",
+      "path": "/assets/most download apps images/taghche.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 5,
+      "title": "لایک بگیر اینستاگرام",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/most download apps images/likebegir.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 6,
+      "title": "فالوور بگیر اینستاگرام",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/most download apps images/followerbegir.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 7,
+      "title": "شیپور: خرید و فروش خودرو , ملک و . . .",
+      "category": "خرید",
+      "path": "/assets/most download apps images/sheypoor.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 8,
+      "title": "فالوور بگیر | توربو فالور اینستاگرام",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/most download apps images/turbofollower.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 9,
+      "title": "ویوکده | بازدید لایو | استوری | لایک",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/most download apps images/viewcade.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 10,
+      "title": "فیلم نت - تماشای فیلم و سریال",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/most download apps images/filmnet.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 10,
+      "title": "لایک بگیر | توربو لایک اینستاگرام",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/most download apps images/turbolike.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 11,
+      "title": "کالری شمار کرفس - رژیم لاغری و چاقی",
+      "category": "تناسب اندام",
+      "path": "/assets/most download apps images/karafs.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 12,
+      "title": "با هم - دوستای جدید پیدا کن",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/most download apps images/baham.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 13,
+      "title": "کافه ممبر - فالور,لایک,کامنت,ممبر",
+      "category": "شبکه های اجتماعی",
+      "path": "/assets/most download apps images/cafemember.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 14,
+      "title": "قرآن صوتی حبل المتین",
+      "category": "مذهبی",
+      "path": "/assets/most download apps images/quran.png",
+      "slugCat": "mostdownload"
+    },
+    {
+      "id": 15,
+      "title": "آپارات کودک - دنیای شاد کارتونی",
+      "category": "کودک",
+      "path": "/assets/most download apps images/aparatkids.png",
+      "slugCat": "mostdownload"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "سرگرمی"
+    },
+    {
+      "id": 2,
+      "title": "آموزش"
+    },
+    {
+      "id": 3,
+      "title": "خرید"
+    },
+    {
+      "id": 4,
+      "title": "شبکه های اجتماعی"
+    },
+    {
+      "id": 5,
+      "title": "عکاسی و ویدیو"
+    },
+    {
+      "id": 6,
+      "title": "امورمالی"
+    }
+  ]
+}

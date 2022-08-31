@@ -1,0 +1,47 @@
+import React from 'react';
+import Head from 'next/head';
+
+import axios from 'axios';
+
+import SingleAppContainer from '../../../components/singleApp/singleAppContainer';
+
+export const getStaticPaths = async () => {
+    const MAIN_URL = "http://localhost:3001";
+    const response = await axios.get(`${MAIN_URL}/practical`);
+    const data = response.data;
+
+    const paths = data.map((app) => {
+        return {
+            params: { id: app.id.toString() }
+        }
+    })
+    
+    return {
+        paths,
+        fallback: false
+    }
+}
+
+export const getStaticProps = async (context) => {
+    const MAIN_URL = "http://localhost:3001";
+    const id = context.params.id;
+    const response = await axios.get(`${MAIN_URL}/practical/` + id);
+    const data = response.data;
+    
+    return {
+        props: { application: data }
+    }
+}
+
+const singleApp = ({application}) => {
+    return (
+        <>
+            <Head>
+                <title>برنامه {application.title} - دانلود | کافه بازار</title>
+            </Head>
+            <SingleAppContainer application={application} />
+        </>
+    )
+}
+
+export default singleApp;

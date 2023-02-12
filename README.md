@@ -1,7 +1,7 @@
 # Cafe Bazaar Web Application Clone
 
 ### Tech Stack
-- Javascript :)
+- Javascript
 - ReactJs
 - NextJs
 - TailwindCSS
